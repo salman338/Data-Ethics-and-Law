@@ -1,0 +1,46 @@
+13:50:57	 From  Eng. Ahmed Hossam (EHAF Consulting Engineers) : :D
+13:56:37	 From  Salman Khan : we can predict future 
+13:56:41	 From  Suparerk : We can have so much insight from the data.
+13:56:49	 From  Dmitrijs Kass : Credit scoring
+13:56:55	 From  Ida Bergman : Targeted ads
+13:56:57	 From  Tayyeba Khan : We can use it to identify patterns and get profit from it
+13:56:59	 From  Raja Rashid : to know about our interactions with the customer
+13:57:00	 From  Charalampos Poulikidis : Trends and recomendations
+13:57:05	 From  Oscar Johansson : Positive: Pattern recognition in for instance medical analysis to predict diseases etc, 
+13:57:07	 From  Kushagra Kumar : For advertisements
+13:57:08	 From  Suparerk : Like what people on social media are interested
+13:57:16	 From  Marc : companies can manipulate us into buying things, governments can manipulate us into voting candidates
+13:57:17	 From  Prajwal Bangalore Narayana : Trend analytics 
+13:57:17	 From  Sanghamitra : to make business strategies
+13:57:24	 From  alexis : For decision-making in general
+13:57:24	 From  Albin Barchéus : Data doesn't lie. It tells a clear story about what the users/people think and want when it comes to products and also about their thoughts concerning public figures.
+13:57:29	 From  Tayyeba Khan : stock market trends
+13:57:39	 From  Esraa Ahmed Radian : influencing political elections 
+13:57:41	 From  KHALED MAEN : recommendation systems
+
+13:57:42	 From  Elena Filonova : customer buying behavior analysis
+13:57:44	 From  Oscar Johansson : Negative: Blackmailing, "manipulation" as in for instance the Cambridge analytica scandal
+13:57:48	 From  Charalampos Poulikidis : Data is nowadays gold
+13:57:53	 From  Salman Khan : AI companies use data for creating their complex model 
+13:58:08	 From  Jingwei Hu : Insights and pattern extracted from data can help company make decisions and make profits
+13:58:48	 From  Alexandros Tsakiris : Mostly control & prediction. You can predict for example market trends and data is sort of a "resource" that you don't know exactly how to control but you know it's better to keep it for when it becomes useful, therefore valuable.
+13:59:00	 From  Yue Wang : performance of people actions
+14:01:07	 From  Alexandros Tsakiris : Also, I personally remember reading about the revelations of Edward Snowden on the dumping of data of NSA. He claimed that NSA did not know exactly how to use all the data it was siphoning at the time but kept it nevertheless and kept accelerating its efforts.
+14:01:55	 From  Kushagra Kumar : Stock market trends can be analysed with the data from past , and present and market value of a share can be predicted based on this.
+14:02:40	 From  Adrià Correas : Google also has a scary power when it comes to prediction search results, it can basically bias our google searchs without us noticing.
+14:06:50	 From  Kushagra Kumar : Buying and selling of a product depends on the data based on which part of a world is more inclined to a particular product, thus the marketing manager of that product can expand their business on that particular region
+14:07:25	 From  Sophia Zhang Pettersson : In digital era, we say high technology that is actually about the human ,so the technology it’s self essential is human. Data as an intangible asset can generate all information about the human behavior. Recently, there is a popular concept omnichannel marketing in business world, means using the digital channel by data to target customers and study where is the customer in customer journey, then making a customer oriented strategy, therefore, the data is a basis of the branding decision and marketing strategy.
+14:09:14	 From  Suparerk : I have heard that some investing companies also use the data from the satellite pictures to predict how stock values change. For example, they process the satellite pictures of an oil rig, such as how the machine moves, where the drilling goes in each day, etc. to predict the stock value. This is an insight that we could get from data.
+14:14:21	 From  Suparerk : As a networking engineer, we can analyze traffic data to see which one is malicious or a threat. Then, we can block it at the Internet service provider, or at the firewall. Or, we can see the pattern of the data usage in the past to allocate a proper amount of bandwidth to each user or each type of  application.
+14:14:33	 From  Moritz Klimmek : Maybe just some interesting examples demonstrating the value of data especially for the big tech companies. Amazon uses the data from its cloud business to support the decision in which startups to invest in, i.e. companies expanding their cloud resources. Google years ago forced smartphone manufacturers to use Google’s location services after some switched to a competitor (due to higher quality) because according to internal emails it was a massive problem for their data collection..
+14:18:38	 From  Alexandros Tsakiris : Excellent!
+14:19:09	 From  Suparerk : Great add-on !
+14:20:25	 From  Alexander Eriksson : How long is data valuable? i.e. is it not worth as much if it's from last week/month/year?
+14:20:47	 From  Albin Barchéus : But if only a very small part of the user base uses an add-on like this, won't this just be counted as noise and not necessarily make the data as a whole lie to the company?
+14:21:29	 From  Suparerk : Have you heard about some android phones just always eavesdrop us? Then, what we talked is likely to show up in ads too.
+14:28:23	 From  Mikael Laaksoharju : https://darkpatterns.org/
+14:34:29	 From  Kushagra Kumar : That is interesting, but how much can they lie about their product? Any limits?
+14:35:01	 From  Sophia Zhang Pettersson : I think the customers needs are there, not created by marketers.  The marketers just use the marketing to wake up/use this potential needs and make their profit, i am not sure this called manipulation :-)
+14:39:55	 From  Esraa Ahmed Radian : the need is created and people's opinions can be influenced by Ads , i think this is "manipulation" 🙂
+14:41:21	 From  Sophia Zhang Pettersson : customers’ psychology, many people bought Iphone that is abut symbolic product, and this is the need to show your status which is programmed in humans’ brain during the long history evolution, my opinion :-)
+14:44:59	 From  Dmitrijs Kass : Please also elaborate on the Code v2. How influential is this document and how is it used? 
